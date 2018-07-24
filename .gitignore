@@ -12,3 +12,7 @@
 \.idea/caches/
 
 \.idea/
+
+gradle/wrapper/
+
+app/build/
